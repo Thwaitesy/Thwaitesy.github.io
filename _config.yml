@@ -1,0 +1,18 @@
+# Site settings
+name: Sam Thwaites
+description: "Tech Entrepreneur"
+url: "thwaitesy.com"
+
+github_username:  thwaitesy
+twitter_username: thwaitesynz
+linkedin_username: samthwaites
+
+avatar_img_path: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/000/2bf/0e6/271cfdb.jpg"
+background_img_path: "img/background.jpg"
+
+analytics:
+  google: UA-41126415-1
+
+# Build settings
+markdown: kramdown
+permalink: pretty
